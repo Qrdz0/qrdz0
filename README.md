@@ -4,7 +4,8 @@ I'm a 15-year-old Full-Stack Developer and Founder from Belgium. I build fast, s
 
 #### What I'm Building
 
-*   **[VibeCode Labs](https://github.com/Qrdz0/SiteAudit) - Founder & Developer:** Building SaaS tools for local businesses. My latest project is a headless browser compliance scanner for GDPR and legal risks.
+*   **[VibeCode Labs](https://github.com/Qrdz0/vibecode-labs) - Founder & Developer:** An agency building GDPR-compliant websites and custom client dashboards for local businesses. All sites are optimized for mobile and feature fully self-hosted assets for maximum privacy.
+*   **[SiteAudit](https://github.com/Qrdz0/SiteAudit):** A headless browser compliance scanner that detects GDPR, legal, and mobile risks for local business websites. Built with Node.js and Puppeteer.
 *   **[Moneyium](https://github.com/Qrdz0/moneyium):** A secure, full-stack virtual economy platform built with Node.js and SQLite. Features serialized items, anti-dupe SQL transactions, and a custom test suite.
 *   **AI Tooling:** Building local AI interfaces (**tinygpt**) and PC automation CLI agents (**moneys-helper**) using Ollama.
 *   **Game Development:** Developing high-quality Roblox experiences with advanced custom physics and AI pathfinding.
