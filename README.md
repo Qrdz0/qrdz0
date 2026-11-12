@@ -1,6 +1,6 @@
 ### Hey, I'm Qrdz
 
-I'm a 15-year-old Full-Stack Developer and Founder from Belgium. I build fast, secure web applications and AI tools. I use AI as a pair-programmer to accelerate my workflow, but I focus heavily on understanding the underlying engineering, security, and database architecture.
+I'm a 15-year-old Full-Stack Developer and Founder. I build fast, secure web applications and AI tools. I use AI as a pair-programmer to accelerate my workflow, but I focus heavily on understanding the underlying engineering, security, and database architecture.
 
 #### What I'm Building
 
